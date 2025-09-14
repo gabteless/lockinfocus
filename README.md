@@ -8,7 +8,7 @@ Você pode instalar a extensão de duas maneiras:
 
 ### 1. Instalação Local (Modo Desenvolvedor)
 
-1.  Clone ou baixe este repositório: `git clone https://github.com/SEU_USUARIO/lockinfocus-extension.git`
+1.  Clone ou baixe este repositório: `git clone https://github.com/gabteless/lockinfocus`
 2.  Abra o Google Chrome e acesse `chrome://extensions`.
 3.  Ative o **"Modo de desenvolvedor"** no canto superior direito.
 4.  Clique em **"Carregar sem compactação"**.
@@ -17,7 +17,7 @@ Você pode instalar a extensão de duas maneiras:
 
 ### 2. Pela Release (Versão Empacotada)
 
-1.  Vá para a seção de [Releases](https://github.com/SEU_USUARIO/lockinfocus-extension/releases) deste repositório.
+1.  Vá para a seção de [Releases](https://github.com/gabteless/lockinfocus) deste repositório.
 2.  Baixe o arquivo `lockinfocus-v1.0.0.zip`.
 3.  Descompacte o arquivo.
 4.  Siga os passos de "Instalação Local" acima, selecionando a pasta descompactada.
